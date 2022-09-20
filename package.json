@@ -1,0 +1,24 @@
+{
+  "name": "211mock2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithstephen13/211mock2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jithstephen13/211mock2/issues"
+  },
+  "homepage": "https://github.com/jithstephen13/211mock2#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
